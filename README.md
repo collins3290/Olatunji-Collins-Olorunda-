@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Collins Olorunda
+# 👋 Hi, I'm Olatunji Collins Olorunda
 
 ## 🔐 Cybersecurity Enthusiast | Networking | Ethical Hacking | Cloud Security
 
